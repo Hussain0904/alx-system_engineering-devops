@@ -1,2 +1,2 @@
 #!/bin/bash
-chmd -R ugo-X
+chmd -R ugo+X
